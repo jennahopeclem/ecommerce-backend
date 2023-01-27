@@ -21,3 +21,6 @@ Seeds were implemented into the server in order to retrieve data on products, ca
 Sequelize is used to connect to the database.
 
 ## Usage
+
+https://user-images.githubusercontent.com/117767518/215203365-d06d5c43-1831-481c-a9f0-fc64b6b754a1.mp4
+
